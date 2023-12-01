@@ -133,4 +133,7 @@ li {
     text-transform: uppercase;
 } */
 
-
+/* CURSOR STYLES */
+#submit-btn:hover{
+    cursor: pointer;
+}
