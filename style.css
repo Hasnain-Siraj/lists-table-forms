@@ -1,0 +1,44 @@
+/* UNORDERED LISTS */
+/* ul {
+    list-style-type: square; 
+} */
+
+/* ORDERED LISTS */
+/* ol {
+    list-style-type: lower-roman;
+} */
+
+/* IMAGES FOR BULLETS */
+/* ul {
+    list-style-image: url("./img/icons8-arrow-20.png");
+}
+li {
+    margin: 10px 0px 0px 0px;
+}  */
+
+/* LIST STYLE POSITION */
+/* ul {
+    width: 150px;
+}
+li {
+    margin: 10px;
+}
+.illuminations {
+    list-style-position: outside;
+}
+.season {
+    list-style-position: inside;
+} */
+
+/* LIST SHORTHAND */
+/* ul {
+    list-style: inside circle;
+    width: 300px;
+}
+li {
+    margin: 10px 0px 0px 0px;
+} */
+
+
+
+
